@@ -1,0 +1,374 @@
+
+html{
+    width: 1183px;
+    
+}
+
+.img1{
+    width: 1397px;
+    
+    height: 324px;
+    position: absolute;
+   
+}
+
+.nav-li{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    position: relative;
+    margin-top: 32px;
+    margin-top: -50px;
+    margin-right: -400px;
+}
+
+
+.ul-li{
+    position: absolute;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 48px;
+    margin-left: 500px;
+    
+    
+}
+.blue{
+    color: blue;
+}
+
+a{
+    color: white;
+    padding-left: 49px;
+    font-family: 'Poppins';
+    font-weight: bolder;
+    font-size: 12px;
+    
+}
+
+.zetta{
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 139px;
+    color: white;
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 14px;
+
+}
+.about-us{
+    position: absolute;
+   margin-top: 146px;
+   margin-left: 139px;
+   font-family: 'Poppins';
+   font-weight: bolder;
+   font-size: 42px;
+   color: white;
+}
+.prices{
+    position: absolute;
+    margin-left: 139px;
+    margin-top: 219px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: bold;
+}
+.more{ 
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 203px;
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: bold; 
+}
+.prices::after{
+    content:'';
+    width: 2px;
+    height: 15px;
+    background-color: white;
+    position: absolute;
+    margin-left: 20px;
+    
+}
+.container{
+    
+    width: 1397px;
+    height: 900px;
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+}
+.lorem{
+    margin-top: 452px;
+    margin-left: 139px;
+    color: #5863F8;
+    font-family: 'Poppins';
+    font-size: 14px;
+}
+.trust{
+    width: 374px;
+    height: 115px;
+    margin-left: 139px;
+    font-family: 'Poppins';
+    font-weight: bolder;
+    font-size: 42px;
+    color: #000000;
+}
+.dolor{
+    margin-left: 139px;
+    width: 444px;
+    height: 78px;
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+    margin-top: 10px;
+
+}
+.sit-amet{
+    margin-left: 139px;
+    width: 444px;
+    height: 84px;
+    font-family: 'Poppins';
+    font-weight: normal;
+    font-size: 14px;
+    color: black;
+    margin-top: 10px;
+}
+.read-more{
+    width: 184px;
+    height: 50px;
+    background-color: #5863F8;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-top: 20px;
+    margin-left: 139px;
+    border-radius: 25px;
+}
+.class-read-more{
+    width: 80px;
+    height: 20px;
+    font-family: 'Poppins';
+    font-weight: normal;
+    font-size: 14px;
+    color: white;
+    margin-bottom: -4px;
+}
+.arrow{
+    width: 15px;
+    height: 15px;
+    margin-left: -80px;
+}
+.block-2{
+    
+  
+  width: 536px;
+  height: 461px;
+  margin-top: 400px;
+  margin-left: 108px;
+    
+}
+.photo1 , .photo2{
+    width: 260px;
+    height: 185px;
+    
+}
+.photo3{
+    width: 525px;
+    height: 260px;
+   
+}
+
+.section{
+    background-image: url('../img/img2.png');
+    height: 612px;
+    width: 1397px;
+}
+.h1-1{
+    font-family: 'Poppins';
+    font-weight: normal;
+    font-size: 14px;
+    color: blue;
+    width: 70px;
+    height: 20px;
+    margin-top: -90px;
+    margin-left: 130px;
+}
+.p-1{
+    font-family: 'Poppins';
+    font-weight: bolder;
+    font-size: 46px;
+    color: white;
+    width: 400px;
+    height: 115px;
+    margin-left: 130px;
+}
+.main-div{
+    padding-top: 200px;
+}
+.div-1{
+    background-color: white;
+    width: 260px;
+    height: 260px;
+
+    
+}
+.h1-2{
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 18px;
+    width: 166px;
+    height: 52px;
+    color: black;
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.p-2{
+    font-family: 'Poppins';
+    font-weight: normal;
+    font-size: 14px;
+    width: 221px;
+    height: 62px;
+    color: lightgrey;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.div{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 150px;
+    margin-left: 140px;
+    
+    
+}
+.hotel{
+    margin-left: 12.5px;
+    margin-top: 10px;
+}
+.icon{
+    background-color: blue;
+    width: 59px;
+    height: 58px;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.section-3{
+    background-color: lightgrey;
+    width: 1397px;
+    height: 487px;
+    display: flex;
+}
+
+.copy-1{
+    padding-top: 160px;
+}
+.copy-2{
+    padding-top: 15px;
+    color: black;
+    width: 560px;
+    height: 115px;
+}
+.icon2{
+    border-radius: 30px;
+    margin-top: 18px;
+    margin-left: 133px;
+}
+.marius{
+    margin-left: 25px;
+    margin-top: 34px;
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 18px;
+}
+.icon2-div{
+    display: flex;
+}
+.marius-p{
+    width: 352px;
+    height: 62px;
+    font-family: 'Poppins', medium;
+    font-size: 14px;
+    margin-left: 139px;
+    margin-top: 32px;
+} 
+.section-4{
+    width: 1397px;
+    height: 627px;
+    background-color: white;
+
+}
+.copy-3{
+    margin-top: 90px;
+    font-family: 'Poppins', bold;
+    
+}
+.copy-4{
+    color: black;
+    width: 610px;
+    height: 115px;
+
+}
+.three-photos{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.photo{
+    width: 352px;
+    height: 352px;
+}
+.section-5{
+    background-color: black;
+    width: 1366px;
+    height: 395px;
+}
+.fisrt-div{
+    width: 260px;
+    height: 191px;
+    padding-top: 90px;
+    margin-left: 139px;
+}
+.zetta-2{
+    color: white;
+    font-family: 'Poppins', bold;
+    font-size: 24px;
+}
+.zetta-p{
+    color: #B1B1B1;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+    font-family: 'Poppins', medium;
+    font-size: 10px;
+    width: 260px;
+    height: 83px;
+}
+.facebook{
+    width: 25px;
+    height: 25px;
+    background-color: #3B5998;
+    border-radius: 30px;
+}
+.twitter{
+    width: 25px;
+    height: 25px;
+    background-color: #55ACEE;
+    border-radius: 6px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.google{
+    border-radius: 30px;
+    width: 25px;
+    height: 25px;
+    background-color: #DC4E41
+ 
+}
